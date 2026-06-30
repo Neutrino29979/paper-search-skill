@@ -1,0 +1,7 @@
+MAILTO = "guts1968@163.com"
+BASE_URL = "https://api.openalex.org"
+TIMEOUT = 30
+MAX_RETRIES = 3
+RETRY_DELAY = 1.0
+MAX_PAGINATION = 200
+CACHE_TTL = 300
